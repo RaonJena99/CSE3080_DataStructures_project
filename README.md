@@ -2,8 +2,6 @@
 
 ---
 
-# CSE3080 Data Structures Assignments
-
 This repository contains solutions for two assignments focused on data structures: **String Pattern Matching** and **Minimum Spanning Tree (MST) Calculation**. Each project is implemented in C, with specific requirements and constraints on input/output formatting, error handling, and performance. Below is a detailed description of each assignment.
 
 ## Table of Contents
